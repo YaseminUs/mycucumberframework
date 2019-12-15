@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de1a3abf-6fa9-4ea4-aa78-5286e425e2c2" name="Default Changelist" comment="" />
+    <list default="true" id="de1a3abf-6fa9-4ea4-aa78-5286e425e2c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,12 +27,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1TrFW7RY0kh6su4j2NJtnGcybUe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -150,6 +157,10 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="428" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1576114449381" />
+    <state x="355" y="23" key="CommitChangelistDialog2" timestamp="1576380456242">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="355" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1576380456242" />
     <state width="1358" height="197" key="GridCell.Tab.0.bottom" timestamp="1576380186477">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
